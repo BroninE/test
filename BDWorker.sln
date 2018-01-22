@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDWorkerApp", "ConsoleApp1\BDWorkerApp.csproj", "{972C0589-CE17-40CA-B3AA-564D327A256D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDWorkerAppTests", "UnitTestProject1\BDWorkerAppTests.csproj", "{A7E4CC95-62B9-492E-B2DB-225E012D80DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972C0589-CE17-40CA-B3AA-564D327A256D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972C0589-CE17-40CA-B3AA-564D327A256D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972C0589-CE17-40CA-B3AA-564D327A256D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972C0589-CE17-40CA-B3AA-564D327A256D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E4CC95-62B9-492E-B2DB-225E012D80DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E4CC95-62B9-492E-B2DB-225E012D80DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E4CC95-62B9-492E-B2DB-225E012D80DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E4CC95-62B9-492E-B2DB-225E012D80DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED93321A-6947-4CE0-9FD6-2E5DC306C7DD}
+	EndGlobalSection
+EndGlobal
